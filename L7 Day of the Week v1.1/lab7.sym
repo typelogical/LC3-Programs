@@ -1,0 +1,37 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	C                       302A
+//	CHANGE_SIGN             3074
+//	CHANGE_SIGN_2           3098
+//	COMPUTE_C               304E
+//	COMPUTE_D               3040
+//	COMPUTE_M               302F
+//	D                       3029
+//	DAY                     3025
+//	DAY_OF_THE_WEEK         3027
+//	DIV                     307C
+//	DIV_REPEAT              3091
+//	M                       3028
+//	MOD                     30A1
+//	MOD_REPEAT              30B6
+//	MONTH                   3024
+//	MONTH_GT_2              303A
+//	MULT                    305C
+//	MULT_REPEAT             306E
+//	N_100                   302E
+//	SAVE_R1                 30C1
+//	SAVE_R2                 30C2
+//	SAVE_R3                 30C3
+//	SAVE_R4                 30C4
+//	SAVE_R5                 30C5
+//	SAVE_R7                 30C6
+//	X_DIV_Y                 302C
+//	X_MOD_Y                 302D
+//	X_MUL_Y                 302B
+//	X_NEG                   3064
+//	X_NEG_2                 3086
+//	X_NEG_3                 30AA
+//	YEAR                    3026
+//	Y_NEG                   306A
+//	Y_NEG_2                 308C
+//	Y_NEG_3                 30B0

@@ -1,0 +1,8 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DAY                     3004
+//	DAY_OF_THE_WEEK         3002
+//	MONTH                   3003
+//	X_DIV_Y                 3007
+//	X_MUL_Y                 3006
+//	YEAR                    3005

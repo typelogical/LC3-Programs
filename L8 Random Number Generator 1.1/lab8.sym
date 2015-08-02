@@ -1,0 +1,35 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	A                       3027
+//	CHANGE_SIGN             3048
+//	CHANGE_SIGN_2           306C
+//	DIV                     3050
+//	DIV_REPEAT              3065
+//	LOOP                    3000
+//	LOOP_END                3025
+//	M                       3026
+//	MOD                     3075
+//	MOD_REPEAT              308B
+//	MULT                    302F
+//	MULT_REPEAT             3042
+//	NGEN                    302E
+//	OUTPUT                  3097
+//	Q                       3029
+//	R                       302A
+//	SAVE_R1                 3098
+//	SAVE_R2                 3099
+//	SAVE_R3                 309A
+//	SAVE_R4                 309B
+//	SAVE_R5                 309C
+//	SAVE_R7                 309D
+//	X                       3028
+//	X_DIV_Y                 302C
+//	X_LT_0                  301D
+//	X_MOD_Y                 302D
+//	X_MUL_Y                 302B
+//	X_NEG                   3038
+//	X_NEG_2                 305A
+//	X_NEG_3                 307F
+//	Y_NEG                   303E
+//	Y_NEG_2                 3060
+//	Y_NEG_3                 3085

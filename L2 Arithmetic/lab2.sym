@@ -1,0 +1,8 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	X                       3006
+//	X_minus_Y               3008
+//	Y                       3007
+//	Z                       300B
+//	absX                    3009
+//	absY                    300A
